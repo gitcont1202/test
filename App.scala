@@ -1,3 +1,4 @@
+/* Well, this is my contribution to your code IM */
 import scala.collection.mutable.ArrayBuffer
 
 package com.int.queue {
