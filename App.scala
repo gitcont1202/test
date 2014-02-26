@@ -34,8 +34,6 @@ package com.int.queue {
 	}
 }
 
-
-
 object main {
 	import com.int.queue._
 	import com.int.queue.traits._
